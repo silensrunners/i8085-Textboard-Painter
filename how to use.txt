@@ -1,0 +1,32 @@
+[CA]INSTRUCCIONS
+------------------------------------------------------------------------------
+0) Crea un fitxer de text i escriu-hi el que vulguis.
+1) Executa el programa.
+2) Introdueix el nom de l'arxiu en què has escrit el que vols compilar.
+3) Introdueix el nom del fitxer destí. (Ex "output.asm")
+4) Si l'arxiu destí te l'extensió '.asm' el pots carregar directament al simulador.
+5) Obre el simulador, carrega l'arxiu '.asm', compila'l i executa'l.
+6) Obre la pantalla de text del simulador per veure el resultat.
+------------------------------------------------------------------------------
+
+[EN]INSTRUCTIONS
+------------------------------------------------------------------------------
+0) Create a text file and write whatever you want.
+1) Execute the program.
+2) Type the name of the file you've just created.
+3) Type the name of the output file. (Ex "output.asm")
+4) If the file extension is '.asm' you will be able to run it in the simulator directly.
+5) Open the simulator, load the '.asm' file, compile and run.
+6) Open the text screen of the simulator to see the resoult.
+------------------------------------------------------------------------------
+
+[ES]INSTRUCCIONES
+------------------------------------------------------------------------------
+0) Crea un fichero de texto y escribe lo que desees.
+1) Ejecuta el programa.
+2) Introduce el nombre del archivo que acabas de crear.
+3) Introduce el nombre del fichero destino. (Ex "output.asm")
+4) Si el archivo destino tiene la extension '.asm' lo podras cargar directamente al simulador.
+5) Abre el simulador, carga el archivo '.asm', compilalo y ejecutalo.
+6) Abre la pantalla de texto del simulador para ver el resultado.
+------------------------------------------------------------------------------
